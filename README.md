@@ -30,18 +30,6 @@ Me gusta aprender de forma constante, mejorar la experiencia visual de los proye
 
 </div>
 
-## actividad en github
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sant1ago-sl&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=2563eb&bg_color=ffffff" alt="estadisticas de github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ago-sl&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" alt="lenguajes mas usados" />
-</div>
-
-## proyectos destacados
-
-- [portafolio personal](https://my-portafolio-omega.vercel.app)
-- [repositorios en github](https://github.com/sant1ago-sl?tab=repositories)
-
 ## contacto
 
 - linkedin: [santiagosalasperez](https://www.linkedin.com/in/santiagosalasperez/)
