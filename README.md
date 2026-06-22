@@ -5,7 +5,6 @@
 ### estudiante de tecsup lima enfocado en frontend y desarrollo web
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-santiago_salas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagosalasperez/)
-[![Portafolio](https://img.shields.io/badge/portafolio-ver_sitio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portafolio-omega.vercel.app)
 [![Correo](https://img.shields.io/badge/email-tecsup-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.salas@tecsup.edu.pe)
 
 </div>
