@@ -1,42 +1,48 @@
+<div align="center">
+
 # Santiago Salas
 
-Estudiante de 5to ciclo en TECSUP Lima, enfocado principalmente en frontend y en seguir fortaleciendo mi perfil full stack.
+### estudiante de tecsup lima enfocado en frontend y desarrollo web
 
-Me gusta construir interfaces claras, funcionales y bien pensadas, mientras sigo aprendiendo nuevas herramientas y buenas practicas de desarrollo.
+[![LinkedIn](https://img.shields.io/badge/linkedin-santiago_salas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagosalasperez/)
+[![Portafolio](https://img.shields.io/badge/portafolio-ver_sitio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portafolio-omega.vercel.app)
+[![Correo](https://img.shields.io/badge/email-tecsup-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.salas@tecsup.edu.pe)
 
-## Sobre mi
+</div>
 
-- Estudiante de Diseno y Desarrollo de Software en TECSUP
-- Enfoque actual en desarrollo frontend
-- Interes en desarrollo web y aplicaciones moviles
-- Aprendizaje continuo y adaptabilidad
+## sobre mi
 
-## Tecnologias
+Soy estudiante de 5to ciclo de Diseno y Desarrollo de Software en TECSUP. Actualmente estoy fortaleciendo mi camino en frontend, con interes en crear interfaces claras, modernas y funcionales, sin dejar de seguir construyendo una base solida en desarrollo full stack.
 
-### Lenguajes
+Me gusta aprender de forma constante, mejorar la experiencia visual de los proyectos y convertir ideas en productos web bien estructurados.
 
-`Python` `Java` `Kotlin` `JavaScript` `HTML` `CSS`
+## enfoque actual
 
-### Frameworks y herramientas
+- desarrollo frontend con interfaces mejor cuidadas
+- proyectos web con react y buenas practicas
+- crecimiento progresivo en experiencia full stack
 
-`React` `Django` `Git` `GitHub` `MySQL` `Docker` `AWS` `VS Code` `n8n`
+## stack principal
 
-## Actualmente
+<div align="center">
 
-- Reforzando bases en frontend y experiencia de usuario
-- Mejorando mi flujo de trabajo con Git y GitHub
-- Desarrollando proyectos academicos y personales para seguir creciendo como desarrollador
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,python,django,java,kotlin,mysql,git,github,docker,vscode,aws&perline=7)](https://skillicons.dev)
 
-## Proyectos destacados
+</div>
 
-- [Portafolio personal](https://my-portafolio-omega.vercel.app)
-- [Mis repositorios](https://github.com/sant1ago-sl?tab=repositories)
+## actividad en github
 
-## Contacto
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sant1ago-sl&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=444444&icon_color=2563eb&bg_color=ffffff" alt="estadisticas de github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ago-sl&layout=compact&theme=default&hide_border=true&title_color=111111&text_color=444444&bg_color=ffffff" alt="lenguajes mas usados" />
+</div>
 
-- LinkedIn: [linkedin.com/in/santiagosalasperez](https://www.linkedin.com/in/santiagosalasperez/)
-- Correo: [santiago.salas@tecsup.edu.pe](mailto:santiago.salas@tecsup.edu.pe)
+## proyectos destacados
 
-## Frase personal
+- [portafolio personal](https://my-portafolio-omega.vercel.app)
+- [repositorios en github](https://github.com/sant1ago-sl?tab=repositories)
 
-> Busco seguir aprendiendo, crear mejores interfaces y convertir ideas en soluciones utiles.
+## contacto
+
+- linkedin: [santiagosalasperez](https://www.linkedin.com/in/santiagosalasperez/)
+- correo: [santiago.salas@tecsup.edu.pe](mailto:santiago.salas@tecsup.edu.pe)
